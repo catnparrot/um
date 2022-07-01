@@ -37,5 +37,8 @@ main Class: Project.java
     - 장바구니(물품 선택, 비우기, 한번에 결제)
 
 
+### :small_orange_diamond: 어려웠던 부분
+> 장바구니 기능  
+> 뒤로가기 기능  
 
 
