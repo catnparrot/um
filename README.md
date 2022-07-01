@@ -1,9 +1,9 @@
 # :shopping_cart:JavaSemiProject (자바 세미 프로젝트)
 
-#### 	:black_medium_square: 주제: 무인편의점 키오스크 
-:black_medium_square: 기간 : 20220208(화)~20220214(월)
+#### 	:black_medium_small_square: 주제: 무인편의점 키오스크 
+:black_medium_small_square: 기간 : 20220208(화)~20220214(월)
 
-:black_medium_square: 팀원 : 김민성(팀장) 김상기 김태형 김정용 박현수 박현지
+:black_medium_small_square: 팀원 : 김민성(팀장) 김상기 김태형 김정용 박현수 박현지
 
 #
 ### :small_orange_diamond: 프로젝트 문서
