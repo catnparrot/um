@@ -1,4 +1,4 @@
-# :shopping_cart:JavaSemiProject (자바 세미 프로젝트)
+# :shopping_cart:JavaSemiProject (자바 세미 프로젝트)   
 
 #### 	:black_medium_small_square: 주제: 무인편의점 키오스크 
 :black_medium_small_square: 기간 : 20220208(화)~20220214(월)
